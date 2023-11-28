@@ -1,6 +1,6 @@
 # Multi-view MAE
 
-> [**Point Cloud Self-supervised Learning via 3D to Multi-view Masked Autoencoder**](https://arxiv.org/abs/2305.08776) <br>
+> [**Point Cloud Self-supervised Learning via 3D to Multi-view Masked Autoencoder**](https://arxiv.org/abs/2311.10887) <br>
 
 This is the official repository for the paper: Point Cloud Self-supervised Learning via 3D to Multi-view Masked Autoencoder. 
 
