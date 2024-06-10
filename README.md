@@ -4,7 +4,7 @@
 
 This is the official repository for the paper: Point Cloud Self-supervised Learning via 3D to Multi-view Masked Autoencoder. 
 
-Codes will be released soon.
+Codes will be released after acceptence.
 
 
 ## Cite
